@@ -3,7 +3,6 @@ body{
     color:  white !important;
 }
 :root{
-    font-weight: 300 !important;
     font-size: 16px;
 }
 *{
@@ -12,6 +11,7 @@ body{
 }
 .table td{
 padding: 38px;
+
 }
 th{
     font-weight: 300 !important;
