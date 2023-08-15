@@ -95,7 +95,7 @@ const Header = () => {
           <Link mx={4} position="relative">
             Docs{" "}
             <svg
-              style={{ position: "absolute", left: "60px", bottom: "3px" }}
+              style={{ position: "absolute", left: "60px", bottom: "4px" }}
               width="14"
               height="14"
               viewBox="0 0 14 14"
